@@ -12,3 +12,35 @@ body{
     color: #45474B !important;
     border-radius: 8px;
 }
+
+.menu-item{
+    box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.75) !important; 
+    -webkit-box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.75) !important;
+    -moz-box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.75) !important;
+}
+
+.menu-container{
+    margin-top: 2%; 
+}
+
+#details-btn{
+    border: 1px solid #45474B;
+    background-color: #D6D46D;
+    border-radius: 13px;
+}
+
+#add-to-favourites-btn{
+    border: 1px solid #45474B;
+    background-color: #D6D46D;
+    border-radius: 13px;
+}
+
+#details-btn:hover{
+    background-color: #45474B;
+    color: #D6D46D;
+}
+
+#add-to-favourites-btn:hover{
+    background-color: #45474B;
+    color: #D6D46D;   
+}
