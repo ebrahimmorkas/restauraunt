@@ -1,0 +1,14 @@
+body{
+    background-color: #45474B;
+    background-size: cover;
+}
+
+
+#navbar-item-custom{
+    color: #FECDA6;
+}
+#navbar-item-custom:hover{
+    background-color: #FECDA6 !important;
+    color: #45474B !important;
+    border-radius: 8px;
+}
